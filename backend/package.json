@@ -16,7 +16,10 @@
     "nodejs",
     "crud"
   ],
-  "author": "Pedro Budke<pedrohbudke@gmail.com> (https://github.com/PedroBudke)",
+  "author": "Pedro Budke<pedrohbudke@gmail.com> (https://github.com/PedroBudke)", 
+   "contributors": [
+    "Juan Kruger <jpkruger2004@gmail.com> (https://github.com/JuanPabloKruger)"
+  ],
   "license": "MIT",
   "type": "commonjs",
   "dependencies": {
